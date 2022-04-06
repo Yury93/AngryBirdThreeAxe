@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/// <summary>
+/// Result
+/// </summary>
 public class CalculateResults : MonoBehaviour
 {
     [SerializeField] private List<Target> targets;
